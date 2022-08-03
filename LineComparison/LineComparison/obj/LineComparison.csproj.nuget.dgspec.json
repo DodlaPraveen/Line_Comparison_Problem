@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\LPF\\Assignment2\\LineComparison\\LineComparison\\LineComparison.csproj": {}
+    "G:\\LPF\\day8\\Line_Comparison_Problem\\LineComparison\\LineComparison\\LineComparison.csproj": {}
   },
   "projects": {
-    "G:\\LPF\\Assignment2\\LineComparison\\LineComparison\\LineComparison.csproj": {
+    "G:\\LPF\\day8\\Line_Comparison_Problem\\LineComparison\\LineComparison\\LineComparison.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\LPF\\Assignment2\\LineComparison\\LineComparison\\LineComparison.csproj",
+        "projectUniqueName": "G:\\LPF\\day8\\Line_Comparison_Problem\\LineComparison\\LineComparison\\LineComparison.csproj",
         "projectName": "LineComparison",
-        "projectPath": "G:\\LPF\\Assignment2\\LineComparison\\LineComparison\\LineComparison.csproj",
+        "projectPath": "G:\\LPF\\day8\\Line_Comparison_Problem\\LineComparison\\LineComparison\\LineComparison.csproj",
         "packagesPath": "C:\\Users\\PRAVEEN\\.nuget\\packages\\",
-        "outputPath": "G:\\LPF\\Assignment2\\LineComparison\\LineComparison\\obj\\",
+        "outputPath": "G:\\LPF\\day8\\Line_Comparison_Problem\\LineComparison\\LineComparison\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
